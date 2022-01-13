@@ -1,8 +1,5 @@
 ;batnav
-;Noms:
-;Sika Yannis Alvin-Andrew Code Permanent: SIKY67100209
-;Alexandre Filion Code Permanent: FILA09128609
-;Alex Neault Code Permanent: NEAA02089809
+
 main:    LDA     0x0000,i    
          LDX     0x0000,i    
          STRO    msgacc,d    
